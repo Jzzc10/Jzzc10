@@ -10,32 +10,32 @@
 - ⚡ Fun fact: ...
 -->
 
-I am a passionate web developer, who is crazy about technologies and innovations. I truly enjoy coding and constantly learning new things.
+I am a passionate web developer fascinated by emerging technologies and innovations. I truly enjoy coding and constantly learning new things.
 
 - 🔧 Building innovative web applications
-- 🌱 Continuosly learning and improving my skills
-- My hobbies: 🏀, ⚽, 📚, ✍, 🌍, 🧩, 🎸, 🎹, ♠️, ♟️
+- 🌱 Continuously learning and improving my skills
+- Hobbies: 🏀, ⚽, 📚, ✍, 🌍, 🧩, 🎸, 🎹, ♠️, ♟️
 
 ## 🛠️ Tech Stack
 
-### Language & Markpp Languages
+### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,php,java,html,css,tailwind,bootstrap,js,ts" height="40" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,bootstrap,js,ts" height="40" alt="Frontend technologies" />
 </div>
 
-### Framework & Databases
+### Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,spring,laravel,mysql,postgres" height="40" alt="Backend and databases" />
+  <img src="https://skillicons.dev/icons?i=c,php,java,spring,laravel" height="40" alt="Backend and databases" />
 </div>
 
-### IDEs & Development Tools
+### Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,docker,git,github" height="40" alt="IDEs and development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" alt="IDEs and development tools" />
 </div>
 
-### OS & DevOps
+### Tools & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,windows,cloudflare,md,postman," height="40" alt="System and DevOps" />
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,docker,git,github,linux,windows,md,postman" height="40" alt="System and DevOps" />
 </div>
 
 
@@ -51,13 +51,13 @@ I am a passionate web developer, who is crazy about technologies and innovations
 <p>🚧 Coming soon - Developing my new personal web 🚧</p>
 <!-- POSTS:END -->
 
-## 🌐 Let is Connect
+## 🌐 Let's Connect
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jzzc10&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zecheng_Z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zechengzhou/)
   [![Twitter](https://img.shields.io/badge/Twitter-@dev__zecheng-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zecheng)
-  [![Email](https://img.shields.io/badge/Email-jzzc10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgezhou10@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-jorgezhou10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgezhou10@gmail.com)
 </div>
 
 ## 💭 My Development philosophy
