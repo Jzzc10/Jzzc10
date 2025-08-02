@@ -57,7 +57,7 @@ I am a passionate web developer, who is crazy about technologies and innovations
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zecheng_Z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zechengzhou/)
   [![Twitter](https://img.shields.io/badge/Twitter-@dev__zecheng-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_zecheng)
-  [![Email](https://img.shields.io/badge/Email-jorgezhou10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgezhou10@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-jzzc10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgezhou10@gmail.com)
 </div>
 
 ## 💭 My Development philosophy
